@@ -36,8 +36,6 @@ function highlightCollection(collection_id) {
 
 root = $.getJSON( "data/ri_" + image_id + ".json", function(root){
 
-    console.log(root);
-
     // Name and description
     $("#contrast_name").text(root.contrast);
     $("#task_name").text(root.task);

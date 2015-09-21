@@ -172,7 +172,6 @@ root = $.getJSON( "data/reverseinference.json", function(root){
     // Show information on mouseover
     function info(d) {
 
-       console.log(d);
        // Always first hide detail link
        $("#node_detail").addClass("hidden");
        $("#node_task").addClass("hidden")
