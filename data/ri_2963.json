@@ -1,0 +1,1006 @@
+{
+    "category": "",
+    "collection": {
+        "DOI": "10.3389/fnins.2015.00063",
+        "authors": "Mei-Yen Chen, Koji Jimura, Corey N. White, W. Todd Maddox and Russell A. Poldrack",
+        "journal": "Frontiers in Neuroscience",
+        "smoothing_fwhm": "nan",
+        "subjects": NaN,
+        "title": "Multiple brain networks contribute to the acquisition of bias in perceptual decision-making",
+        "url": "http://journal.frontiersin.org/article/10.3389/fnins.2015.00063"
+    },
+    "concept": [],
+    "contrast": "parametric context based action reward error",
+    "description": "",
+    "download": "http://neurovault.org/media/images/431/figure4_context_based.nii.gz",
+    "image_id": 2963,
+    "images": [
+        "http://neurovault.org/media/images/431/glass_brain_2963.jpg"
+    ],
+    "scores": [
+        {
+            "count_in": 77.0,
+            "count_out": 36.0,
+            "name": "object recognition",
+            "ri_binary": 0.68145686751425194,
+            "ri_ranges": 0.6886247352256295
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "auditory word recognition",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "auditory tone discrimination",
+            "ri_binary": 0.086598054596902951,
+            "ri_ranges": 0.087085230523585216
+        },
+        {
+            "count_in": 7.0,
+            "count_out": 88.0,
+            "name": "attention",
+            "ri_binary": 0.075119092676048743,
+            "ri_ranges": 0.074804815622391427
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "visual pseudoword recognition",
+            "ri_binary": 0.010818559739509672,
+            "ri_ranges": 0.010814020442163183
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "visual object detection",
+            "ri_binary": 0.065835342920694193,
+            "ri_ranges": 0.065260747878332623
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "high energy density food recognition",
+            "ri_binary": 0.010783833205038095,
+            "ri_ranges": 0.010815782026122019
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "color recognition",
+            "ri_binary": 0.021670951113258251,
+            "ri_ranges": 0.0216754402102852
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "potential monetary reward",
+            "ri_binary": 0.043248012885905712,
+            "ri_ranges": 0.043406587583984926
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "animacy decision",
+            "ri_binary": 0.021649260815105049,
+            "ri_ranges": 0.021624907161759094
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "punishment",
+            "ri_binary": 0.065835342920694193,
+            "ri_ranges": 0.065260747878332623
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "sentence processing",
+            "ri_binary": 0.010779985485675813,
+            "ri_ranges": 0.010802989832798019
+        },
+        {
+            "count_in": 5.0,
+            "count_out": 88.0,
+            "name": "auditory perception",
+            "ri_binary": 0.054089463649261607,
+            "ri_ranges": 0.054338790006069511
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "word maintenance",
+            "ri_binary": 0.04302635136895213,
+            "ri_ranges": 0.043398194352403614
+        },
+        {
+            "count_in": 10.0,
+            "count_out": 83.0,
+            "name": "memory",
+            "ri_binary": 0.10895447185119977,
+            "ri_ranges": 0.10879568139253558
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "Language",
+            "ri_binary": 0.010779985485675813,
+            "ri_ranges": 0.010802989832798019
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "animacy perception",
+            "ri_binary": 0.021649260815105049,
+            "ri_ranges": 0.021624907161759094
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "visual body recognition",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 39.0,
+            "count_out": 56.0,
+            "name": "visual form recognition",
+            "ri_binary": 0.41330526899628689,
+            "ri_ranges": 0.41567311010113117
+        },
+        {
+            "count_in": 10.0,
+            "count_out": 83.0,
+            "name": "loss anticipation",
+            "ri_binary": 0.10982585935379742,
+            "ri_ranges": 0.10878684690691302
+        },
+        {
+            "count_in": 12.0,
+            "count_out": 81.0,
+            "name": "proactive control",
+            "ri_binary": 0.13085213247439642,
+            "ri_ranges": 0.13086901482011642
+        },
+        {
+            "count_in": 54.0,
+            "count_out": 77.0,
+            "name": "maintenance",
+            "ri_binary": 0.41200892604211559,
+            "ri_ranges": 0.43137103531349619
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "auditory tone perception",
+            "ri_binary": 0.010813020620156228,
+            "ri_ranges": 0.010813749012993387
+        },
+        {
+            "count_in": 15.0,
+            "count_out": 78.0,
+            "name": "visual face recognition",
+            "ri_binary": 0.16079609714207083,
+            "ri_ranges": 0.16320846334953304
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "auditory sentence processing",
+            "ri_binary": 0.010779985485675813,
+            "ri_ranges": 0.010802989832798019
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "object maintenance",
+            "ri_binary": 0.064559644000821939,
+            "ri_ranges": 0.065189187434801329
+        },
+        {
+            "count_in": 35.0,
+            "count_out": 66.0,
+            "name": "Reasoning And Decision Making",
+            "ri_binary": 0.34932681885563199,
+            "ri_ranges": 0.35310521028921149
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "figure ground segregation",
+            "ri_binary": 0.02033371719419743,
+            "ri_ranges": 0.020496815323472251
+        },
+        {
+            "count_in": 10.0,
+            "count_out": 83.0,
+            "name": "auditory tone detection",
+            "ri_binary": 0.108661691767187,
+            "ri_ranges": 0.10905838452211625
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 77.0,
+            "name": "response inhibition",
+            "ri_binary": 0.17211014045467057,
+            "ri_ranges": 0.17404932031003537
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 85.0,
+            "name": "discrimination",
+            "ri_binary": 0.16251398669344549,
+            "ri_ranges": 0.165071588814904
+        },
+        {
+            "count_in": 11.0,
+            "count_out": 82.0,
+            "name": "negative feedback processing",
+            "ri_binary": 0.12006499963884937,
+            "ri_ranges": 0.11956299457157438
+        },
+        {
+            "count_in": 3.0,
+            "count_out": 90.0,
+            "name": "response conflict",
+            "ri_binary": 0.033058869469346108,
+            "ri_ranges": 0.032552183762745282
+        },
+        {
+            "count_in": 81.0,
+            "count_out": 33.0,
+            "name": "perception",
+            "ri_binary": 0.7105802895496619,
+            "ri_ranges": 0.71748316417586644
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "risk seeking",
+            "ri_binary": 0.065835342920694193,
+            "ri_ranges": 0.065260747878332623
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "Social Function",
+            "ri_binary": 0.064266213230452951,
+            "ri_ranges": 0.065144630359678213
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "decision certainty",
+            "ri_binary": 0.043248012885905712,
+            "ri_ranges": 0.043406587583984926
+        },
+        {
+            "count_in": 74.0,
+            "count_out": 19.0,
+            "name": "response selection",
+            "ri_binary": 0.8011293678184459,
+            "ri_ranges": 0.80012092038767479
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "face maintenance",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 14.0,
+            "count_out": 79.0,
+            "name": "oddball detection",
+            "ri_binary": 0.1520789113024715,
+            "ri_ranges": 0.1526546280139538
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "action",
+            "ri_binary": 0.065835342920694193,
+            "ri_ranges": 0.065260747878332623
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "visual tool recognition",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 10.0,
+            "count_out": 83.0,
+            "name": "reward anticipation",
+            "ri_binary": 0.10982585935379742,
+            "ri_ranges": 0.10878684690691302
+        },
+        {
+            "count_in": 56.0,
+            "count_out": 61.0,
+            "name": "executive function",
+            "ri_binary": 0.47721239713537211,
+            "ri_ranges": 0.48894701924050399
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "visual number recognition",
+            "ri_binary": 0.086860737347529846,
+            "ri_ranges": 0.086986811868244127
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "subjective food value",
+            "ri_binary": 0.010784069746157759,
+            "ri_ranges": 0.01080925349140488
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "visual sentence recognition",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "theory of mind",
+            "ri_binary": 0.064266213230452951,
+            "ri_ranges": 0.065144630359678213
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "emotional self-evaluation",
+            "ri_binary": 0.042679400539167238,
+            "ri_ranges": 0.043303963590980696
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "numerical scale judgment",
+            "ri_binary": 0.042679400539167238,
+            "ri_ranges": 0.043303963590980696
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "working memory updating",
+            "ri_binary": 0.021681201827664795,
+            "ri_ranges": 0.021679487058734379
+        },
+        {
+            "count_in": 74.0,
+            "count_out": 19.0,
+            "name": "action selection",
+            "ri_binary": 0.8011293678184459,
+            "ri_ranges": 0.80012092038767479
+        },
+        {
+            "count_in": 10.0,
+            "count_out": 83.0,
+            "name": "working memory",
+            "ri_binary": 0.10895447185119977,
+            "ri_ranges": 0.10879568139253558
+        },
+        {
+            "count_in": 33.0,
+            "count_out": 60.0,
+            "name": "visual word recognition",
+            "ri_binary": 0.35711072081982026,
+            "ri_ranges": 0.35881226717129633
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "monetary reward prediction error",
+            "ri_binary": 0.02033371719419743,
+            "ri_ranges": 0.020496815323472251
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "self monitoring",
+            "ri_binary": 0.010783833205038095,
+            "ri_ranges": 0.010815782026122019
+        },
+        {
+            "count_in": 5.0,
+            "count_out": 88.0,
+            "name": "causal inference",
+            "ri_binary": 0.053552972378232325,
+            "ri_ranges": 0.054290080638437162
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "vocal response execution",
+            "ri_binary": 0.021704981958356722,
+            "ri_ranges": 0.02166881573417194
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "tone recognition",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "comprehension",
+            "ri_binary": 0.010779985485675813,
+            "ri_ranges": 0.010802989832798019
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "auditory sentence recognition",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 26.0,
+            "count_out": 67.0,
+            "name": "visual recognition",
+            "ri_binary": 0.27976256815064693,
+            "ri_ranges": 0.28329476712730867
+        },
+        {
+            "count_in": 7.0,
+            "count_out": 86.0,
+            "name": "selective control",
+            "ri_binary": 0.075717127608649737,
+            "ri_ranges": 0.076174144514478279
+        },
+        {
+            "count_in": 319.0,
+            "count_out": 14.0,
+            "name": "Executive-Cognitive Control",
+            "ri_binary": 0.95907053163748257,
+            "ri_ranges": 0.96024427848328864
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "body maintenance",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 77.0,
+            "name": "pattern recognition",
+            "ri_binary": 0.17344137124733827,
+            "ri_ranges": 0.17455392251679738
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "visual color discrimination",
+            "ri_binary": 0.043190305443918928,
+            "ri_ranges": 0.04345859229174296
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "auditory arithmetic processing",
+            "ri_binary": 0.010779985485675813,
+            "ri_ranges": 0.010802989832798019
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "reinforcement learning",
+            "ri_binary": 0.098288146370442836,
+            "ri_ranges": 0.097816903628460669
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "visual attention",
+            "ri_binary": 0.021649260815105049,
+            "ri_ranges": 0.021624907161759094
+        },
+        {
+            "count_in": 111.0,
+            "count_out": 17.0,
+            "name": "response execution",
+            "ri_binary": 0.8721416159621822,
+            "ri_ranges": 0.87294397677643332
+        },
+        {
+            "count_in": 11.0,
+            "count_out": 82.0,
+            "name": "categorization",
+            "ri_binary": 0.12053696827677529,
+            "ri_ranges": 0.11973280580420424
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "tongue response execution",
+            "ri_binary": 0.06544683689679591,
+            "ri_ranges": 0.065090526929698037
+        },
+        {
+            "count_in": 76.0,
+            "count_out": 37.0,
+            "name": "visual perception",
+            "ri_binary": 0.67260245193769663,
+            "ri_ranges": 0.67995360932174287
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "right finger response execution",
+            "ri_binary": 0.06544683689679591,
+            "ri_ranges": 0.065090526929698037
+        },
+        {
+            "count_in": 3.0,
+            "count_out": 90.0,
+            "name": "resistance to distractor inference",
+            "ri_binary": 0.033058869469346108,
+            "ri_ranges": 0.032552183762745282
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 77.0,
+            "name": "updating",
+            "ri_binary": 0.17132490046202184,
+            "ri_ranges": 0.17419267460290774
+        },
+        {
+            "count_in": 127.0,
+            "count_out": 18.0,
+            "name": "cognitive control",
+            "ri_binary": 0.88003357010770744,
+            "ri_ranges": 0.8800481569033668
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "social cognition",
+            "ri_binary": 0.064266213230452951,
+            "ri_ranges": 0.065144630359678213
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "left toe response execution",
+            "ri_binary": 0.06544683689679591,
+            "ri_ranges": 0.065090526929698037
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "potential monetary loss",
+            "ri_binary": 0.043248012885905712,
+            "ri_ranges": 0.043406587583984926
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "economic value processing",
+            "ri_binary": 0.043248012885905712,
+            "ri_ranges": 0.043406587583984926
+        },
+        {
+            "count_in": 20.0,
+            "count_out": 83.0,
+            "name": "anticipation",
+            "ri_binary": 0.20415692767141916,
+            "ri_ranges": 0.1993549894834272
+        },
+        {
+            "count_in": 10.0,
+            "count_out": 83.0,
+            "name": "arithmetic processing",
+            "ri_binary": 0.10951303861110182,
+            "ri_ranges": 0.10895419944749264
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "visual string recognition",
+            "ri_binary": 0.04302635136895213,
+            "ri_ranges": 0.043398194352403614
+        },
+        {
+            "count_in": 190.0,
+            "count_out": 15.0,
+            "name": "Learning and Memory",
+            "ri_binary": 0.92837896257448593,
+            "ri_ranges": 0.93019796672958388
+        },
+        {
+            "count_in": 19.0,
+            "count_out": 74.0,
+            "name": "performance monitoring",
+            "ri_binary": 0.20936416057034871,
+            "ri_ranges": 0.2069722945765525
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "visual object maintenance",
+            "ri_binary": 0.021574557274651518,
+            "ri_ranges": 0.021660794145057092
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "tool maintenance",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 198.0,
+            "count_out": 15.0,
+            "name": "Action",
+            "ri_binary": 0.9322704065009555,
+            "ri_ranges": 0.93238198434189512
+        },
+        {
+            "count_in": 169.0,
+            "count_out": 15.0,
+            "name": "recognition",
+            "ri_binary": 0.92020817117262821,
+            "ri_ranges": 0.92233208981802028
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "right hand response execution",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "confidence judgment",
+            "ri_binary": 0.043248012885905712,
+            "ri_ranges": 0.043406587583984926
+        },
+        {
+            "count_in": 33.0,
+            "count_out": 60.0,
+            "name": "word recognition",
+            "ri_binary": 0.35711072081982026,
+            "ri_ranges": 0.35881226717129633
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 77.0,
+            "name": "stimulus detection",
+            "ri_binary": 0.17571727746887705,
+            "ri_ranges": 0.17450250958516553
+        },
+        {
+            "count_in": 12.0,
+            "count_out": 87.0,
+            "name": "feedback",
+            "ri_binary": 0.12757222412049254,
+            "ri_ranges": 0.12508199654734384
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "motion detection",
+            "ri_binary": 0.021649260815105049,
+            "ri_ranges": 0.021624907161759094
+        },
+        {
+            "count_in": 3.0,
+            "count_out": 90.0,
+            "name": "spatial selective attention",
+            "ri_binary": 0.033058869469346108,
+            "ri_ranges": 0.032552183762745282
+        },
+        {
+            "count_in": 18.0,
+            "count_out": 82.0,
+            "name": "top down processing",
+            "ri_binary": 0.18692665115666859,
+            "ri_ranges": 0.18457006450123581
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 89.0,
+            "name": "emotional reappraisal",
+            "ri_binary": 0.082927120740133795,
+            "ri_ranges": 0.084616673507208806
+        },
+        {
+            "count_in": 76.0,
+            "count_out": 37.0,
+            "name": "visual object recognition",
+            "ri_binary": 0.67260245193769663,
+            "ri_ranges": 0.67995360932174287
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "place maintenance",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 54.0,
+            "count_out": 72.0,
+            "name": "motor response",
+            "ri_binary": 0.4360632811227888,
+            "ri_ranges": 0.44604438529815404
+        },
+        {
+            "count_in": 24.0,
+            "count_out": 77.0,
+            "name": "self-control",
+            "ri_binary": 0.24118130470078047,
+            "ri_ranges": 0.24452861437241377
+        },
+        {
+            "count_in": 7.0,
+            "count_out": 86.0,
+            "name": "emotional face recognition",
+            "ri_binary": 0.075016679817787521,
+            "ri_ranges": 0.076030844950429791
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "risk processing",
+            "ri_binary": 0.043248012885905712,
+            "ri_ranges": 0.043406587583984926
+        },
+        {
+            "count_in": 15.0,
+            "count_out": 78.0,
+            "name": "face recognition",
+            "ri_binary": 0.16079609714207083,
+            "ri_ranges": 0.16320846334953304
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "visual form discrimination",
+            "ri_binary": 0.043190305443918928,
+            "ri_ranges": 0.04345859229174296
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "negative emotion",
+            "ri_binary": 0.042679400539167238,
+            "ri_ranges": 0.043303963590980696
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "left finger response execution",
+            "ri_binary": 0.06544683689679591,
+            "ri_ranges": 0.065090526929698037
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "auditory recognition",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 85.0,
+            "name": "visual place recognition",
+            "ri_binary": 0.086199955489697611,
+            "ri_ranges": 0.086893078866741649
+        },
+        {
+            "count_in": 169.0,
+            "count_out": 15.0,
+            "name": "remembering",
+            "ri_binary": 0.92020817117262821,
+            "ri_ranges": 0.92233208981802028
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 77.0,
+            "name": "inhibition",
+            "ri_binary": 0.17211014045467057,
+            "ri_ranges": 0.17404932031003537
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "spatial attention",
+            "ri_binary": 0.021649260815105049,
+            "ri_ranges": 0.021624907161759094
+        },
+        {
+            "count_in": 5.0,
+            "count_out": 88.0,
+            "name": "inference",
+            "ri_binary": 0.053552972378232325,
+            "ri_ranges": 0.054290080638437162
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 88.0,
+            "name": "feature comparison",
+            "ri_binary": 0.083720455213314823,
+            "ri_ranges": 0.084789407831250121
+        },
+        {
+            "count_in": 160.0,
+            "count_out": 16.0,
+            "name": "Perception",
+            "ri_binary": 0.90895033744483744,
+            "ri_ranges": 0.91006175430824698
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "string maintenance",
+            "ri_binary": 0.04302635136895213,
+            "ri_ranges": 0.043398194352403614
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "emotional suppression",
+            "ri_binary": 0.042679400539167238,
+            "ri_ranges": 0.043303963590980696
+        },
+        {
+            "count_in": 14.0,
+            "count_out": 79.0,
+            "name": "anomaly detection",
+            "ri_binary": 0.1520789113024715,
+            "ri_ranges": 0.1526546280139538
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "visual letter recognition",
+            "ri_binary": 0.010818364431352817,
+            "ri_ranges": 0.010818504806607041
+        },
+        {
+            "count_in": 13.0,
+            "count_out": 84.0,
+            "name": "subjective value judgment",
+            "ri_binary": 0.13468625922758135,
+            "ri_ranges": 0.1366355868319177
+        },
+        {
+            "count_in": 8.0,
+            "count_out": 89.0,
+            "name": "emotion regulation",
+            "ri_binary": 0.082927120740133795,
+            "ri_ranges": 0.084616673507208806
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "right toe response execution",
+            "ri_binary": 0.06544683689679591,
+            "ri_ranges": 0.065090526929698037
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "working memory maintenance",
+            "ri_binary": 0.021681201827664795,
+            "ri_ranges": 0.021679487058734379
+        },
+        {
+            "count_in": 7.0,
+            "count_out": 86.0,
+            "name": "positive feedback processing",
+            "ri_binary": 0.076217230448979503,
+            "ri_ranges": 0.076057283640272158
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "Emotion",
+            "ri_binary": 0.042679400539167238,
+            "ri_ranges": 0.043303963590980696
+        },
+        {
+            "count_in": 159.0,
+            "count_out": 18.0,
+            "name": "executive control",
+            "ri_binary": 0.90104936357672127,
+            "ri_ranges": 0.90285022648942703
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "task difficulty",
+            "ri_binary": 0.065835342920694193,
+            "ri_ranges": 0.065260747878332623
+        },
+        {
+            "count_in": 9.0,
+            "count_out": 84.0,
+            "name": "left hand response execution",
+            "ri_binary": 0.099243074655815056,
+            "ri_ranges": 0.098069541682870548
+        },
+        {
+            "count_in": 32.0,
+            "count_out": 71.0,
+            "name": "detection",
+            "ri_binary": 0.31725249870010652,
+            "ri_ranges": 0.31773334354926475
+        },
+        {
+            "count_in": 16.0,
+            "count_out": 77.0,
+            "name": "visual pattern recognition",
+            "ri_binary": 0.17344137124733827,
+            "ri_ranges": 0.17455392251679738
+        },
+        {
+            "count_in": 3.0,
+            "count_out": 90.0,
+            "name": "relational comparison",
+            "ri_binary": 0.032328956164533018,
+            "ri_ranges": 0.032462151921510168
+        },
+        {
+            "count_in": 1.0,
+            "count_out": 92.0,
+            "name": "story comprehension",
+            "ri_binary": 0.010779985485675813,
+            "ri_ranges": 0.010802989832798019
+        },
+        {
+            "count_in": 2.0,
+            "count_out": 91.0,
+            "name": "response bias",
+            "ri_binary": 0.02033371719419743,
+            "ri_ranges": 0.020496815323472251
+        },
+        {
+            "count_in": 4.0,
+            "count_out": 89.0,
+            "name": "pattern maintenance",
+            "ri_binary": 0.04302635136895213,
+            "ri_ranges": 0.043398194352403614
+        },
+        {
+            "count_in": 6.0,
+            "count_out": 87.0,
+            "name": "object detection",
+            "ri_binary": 0.065835342920694193,
+            "ri_ranges": 0.065260747878332623
+        },
+        {
+            "count_in": 3.0,
+            "count_out": 90.0,
+            "name": "selective attention",
+            "ri_binary": 0.033058869469346108,
+            "ri_ranges": 0.032552183762745282
+        },
+        {
+            "count_in": 19.0,
+            "count_out": 74.0,
+            "name": "error detection",
+            "ri_binary": 0.20936416057034871,
+            "ri_ranges": 0.2069722945765525
+        }
+    ],
+    "task": "dot motion task",
+    "thumbnail": "http://neurovault.org/media/images/431/glass_brain_2963.jpg",
+    "type": "nii",
+    "url": "http://neurovault.org/images/2963/"
+}
